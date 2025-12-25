@@ -19,7 +19,7 @@ Advanced TypeScript patterns and preparing for frontend developer interviews.
 React, Next.js, Tailwind CSS, UI/UX improvements, component architecture, and building performant UIs.
 
 📫 **Reach me at:**  
- *musea186@gmai.com*
+ *musea186@gmail.com*
 
 😄 **Pronouns:**  
 He/Him
