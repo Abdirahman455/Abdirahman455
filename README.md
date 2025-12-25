@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Abdirahman — Frontend Engineer specializing in React, Next.js & TypeScript (Vienna, Austria)
+### # 💫 Hi 👋, I'm Abdirahman — Frontend Engineer specializing in React, Next.js & TypeScript (Vienna, Austria)
 
 I’m a passionate frontend Engineer focused on building clean, fast, and modern web interfaces.  
 I love turning ideas into responsive, user-friendly products using the latest web technologies.
